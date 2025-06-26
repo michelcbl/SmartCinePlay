@@ -1,0 +1,1 @@
+// script.js com login, cadastro, edição, exclusão, pesquisa e Firebase integrado
